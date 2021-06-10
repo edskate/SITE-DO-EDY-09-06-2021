@@ -1,0 +1,49 @@
+
+
+body{
+    width: 95%;
+    max-width: 800px;
+    margin:auto;
+    font-family: lato;
+    line-height: 1.5;
+   background: url(Imagem1.png)center;
+   background-size: 1100px;
+   color: rgb(241, 233, 232);
+   padding: 5%;
+   text-shadow: 3px 2px 10px rgb(25, 201, 207);
+}
+main {
+    background: #00000054;
+    padding: 5px 40px ;
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+.logo, .band-name, .head-line {
+   text-align: center; 
+   margin: 0%;
+
+}
+.conserts {
+    margin: 30px 0;
+    text-align: center;
+    width: 100%;
+}
+.conserts table {
+    background: #2b67ac73;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 auto;
+
+}
+
+.ul,li{
+    list-style: none;
+    display: flex;
+    }
+    h1{
+        text-align: center;
+        color: rgb(26, 24, 155);
+        text-shadow: deepskyblue;
+        margin: 8%;
+    }
